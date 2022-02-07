@@ -1,3 +1,15 @@
+# 1.0.0 (2022-02-07)
+
+
+### Bug Fixes
+
+* **workflow:** Command to run changed ([4a0f4fc](https://github.com/zpreview/docs/commit/4a0f4fce3b71f6f3f25cac6400b61e9b9f3f6939))
+
+
+### Features
+
+* solo ci & package update without the content changes ([#18](https://github.com/zpreview/docs/issues/18)) ([f4d718f](https://github.com/zpreview/docs/commit/f4d718fb0b5bfee5195e774e8aeb9f57af868c92))
+
 # 1.0.0 (2022-01-11)
 
 
